@@ -22,7 +22,6 @@ A Flutter-based weather application that fetches and displays weather data in bo
 | dio                    | ^5.8.0+1   | HTTP client for REST API calls              |
 | intl                   | ^0.20.2    | Internationalization and date formatting    |
 | get_it                 | ^8.0.3     | Dependency injection                        |
-| cached_network_image   | ^3.4.1     | Efficient image loading and caching         |
 | cupertino_icons        | ^1.0.8     | iOS-style icons (default dependency)        |
 | xml                    | ^6.5.0     | XML parsing support                         |
 | equatable              | ^2.0.7     | Simplified value equality for BLoC models   |
