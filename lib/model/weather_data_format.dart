@@ -1,0 +1,1 @@
+enum WeatherDataFormat { json, xml }
